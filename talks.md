@@ -6,7 +6,7 @@ layout: default
 # Rutgers Machine Learning Reading Group
 
 >A talk series and reading group for deep networks and other machine learning topics.
->Meetings are weekly on MondayThursddays at 5 pm (2016 Spring) in CBIM.
+>Meetings are weekly on Thursddays at 5 pm (2016 Spring) in CBIM.
 
 * TOC
 {:toc}
@@ -24,9 +24,8 @@ layout: default
 | Mar 3th | Qi Chang | |
 | Mar 10th | Bhuvan Chandra Inampudi | |
 | Mar 17th | Han Zhang | |
-| Mar 24th | Teng Long | |
-| Mar 31th | Shailesh Goel | |
-| Apr 7th | Debanjan Ghosh  | |
+| Mar 24th | Shailesh Goel | |
+| Mar 31th | Debanjan Ghosh | |
 
 
 
