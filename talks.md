@@ -6,7 +6,7 @@ layout: default
 # Rutgers Machine Learning Reading Group
 
 >A talk series and reading group for deep networks and other machine learning topics.
->Meetings are weekly on Thursddays at 5 pm (2016 Spring) in CBIM.
+>Meetings are weekly on Thursdays at 5 pm (2016 Spring) in CBIM.
 
 * TOC
 {:toc}
