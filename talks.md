@@ -1,5 +1,6 @@
 ---
 title: Rutgers ML Reading Group
+layout: default
 ---
 
 # Rutgers Machine Learning Reading Group
