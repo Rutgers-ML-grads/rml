@@ -1,11 +1,14 @@
+---
 title: Rutgers ML Reading Group
+---
 
 # Rutgers Machine Learning Reading Group
 
 >A talk series and reading group for deep networks and other machine learning topics.
 >Meetings are weekly on Mondays at 5 pm in CBIM.
 
-[TOC]
+* TOC
+{:toc}
 
 
 ## Upcoming Schedule
