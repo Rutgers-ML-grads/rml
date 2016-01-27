@@ -17,7 +17,7 @@ layout: default
 | Date | Person | Information |
 | ---  | ---  | --- |
 | Jan 28th | Dong Yang | fully convolutional networks|
-| Feb 4nd | Ramakanth Vemula | |
+| Feb 4nd |  | |
 | Feb  11th | Abhijit Shanbhag| |
 | Feb  18th | Aditya Chukka | |
 | Feb  25rd | Rajyavardhan Handa | |
