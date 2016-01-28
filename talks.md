@@ -17,7 +17,7 @@ layout: default
 | Date | Person | Information |
 | ---  | ---  | --- |
 | Jan 28 | Dong Yang | fully convolutional networks|
-| Feb 4 |  | |
+| Feb 9(Special, 3pm) | Mohamed Elhoseiny | [Zero-Shot Event Detection by Multimodal Distributional Semantic Embedding of Videos](http://arxiv.org/abs/1512.00818) |
 | Feb 11 | Babak Saleh | [Toward a Taxonomy and Computational Models of Abnormalities in Images](http://arxiv.org/abs/1512.01325) |
 | Feb 18 | Aditya Chukka | |
 | Feb 25 | Rajyavardhan Handa | |
@@ -128,6 +128,7 @@ layout: default
 | Chetan Tonde | |
 | Shailesh Goel | |
 | Debanjan Ghosh | |
+| Mohamed Elhoseiny | |
 
 
 ## Rules
