@@ -16,16 +16,17 @@ layout: default
 
 | Date | Person | Information |
 | ---  | ---  | --- |
-| Jan 28th | Dong Yang | fully convolutional networks|
-| Feb 4nd |  | |
-| Feb  11th | Abhijit Shanbhag| |
-| Feb  18th | Aditya Chukka | |
-| Feb  25rd | Rajyavardhan Handa | |
-| Mar 3th | Qi Chang | |
-| Mar 10th | Bhuvan Chandra Inampudi | |
-| Mar 17th | Han Zhang | |
-| Mar 24th | Shailesh Goel | |
-| Mar 31th | Debanjan Ghosh | |
+| Jan 28 | Dong Yang | fully convolutional networks|
+| Feb 4 |  | |
+| Feb 11 | | |
+| Feb 18 | Aditya Chukka | |
+| Feb 25 | Rajyavardhan Handa | |
+| Mar 3 | Qi Chang | |
+| Mar 10 | Bhuvan Chandra Inampudi | |
+| Mar 17 | Han Zhang | |
+| Mar 24 | Shailesh Goel | |
+| Mar 31 | Debanjan Ghosh | |
+| April 7 | Abhijit Shanbhag| |
 
 
 
