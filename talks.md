@@ -16,7 +16,7 @@ layout: default
 
 | Date | Person | Information |
 | ---  | ---  | --- |
-| Jan 28 | Dong Yang | fully convolutional networks|
+| Jan 28 | Dong Yang | [Fully convolutional networks for semantic segmentation](http://arxiv.org/abs/1411.4038) [Semantic image segmentation with deep convolutional nets and fully connected crfs](http://arxiv.org/abs/1412.7062)  [Learning Deconvolution Network for Semantic Segmentation](http://arxiv.org/abs/1505.04366)|
 | Feb 9(Special, 3pm) | Mohamed Elhoseiny | [Zero-Shot Event Detection by Multimodal Distributional Semantic Embedding of Videos](http://arxiv.org/abs/1512.00818) |
 | Feb 11 | Babak Saleh | [Toward a Taxonomy and Computational Models of Abnormalities in Images](http://arxiv.org/abs/1512.01325) |
 | Feb 18 | Aditya Chukka | [A new learning paradigm: Learning using privileged information](http://www.sciencedirect.com/science/article/pii/S0893608009001130) |
