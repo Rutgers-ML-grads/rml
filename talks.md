@@ -19,7 +19,7 @@ layout: default
 | Jan 28 | Dong Yang | fully convolutional networks|
 | Feb 9(Special, 3pm) | Mohamed Elhoseiny | [Zero-Shot Event Detection by Multimodal Distributional Semantic Embedding of Videos](http://arxiv.org/abs/1512.00818) |
 | Feb 11 | Babak Saleh | [Toward a Taxonomy and Computational Models of Abnormalities in Images](http://arxiv.org/abs/1512.01325) |
-| Feb 18 | Aditya Chukka | |
+| Feb 18 | Aditya Chukka | [A new learning paradigm: Learning using privileged information](http://www.sciencedirect.com/science/article/pii/S0893608009001130) |
 | Feb 25 | Rajyavardhan Handa | |
 | Mar 3 | Qi Chang | |
 | Mar 10 | Bhuvan Chandra Inampudi | |
