@@ -18,7 +18,7 @@ layout: default
 | ---  | ---  | --- |
 | Jan 28 | Dong Yang | fully convolutional networks|
 | Feb 4 |  | |
-| Feb 11 | Babak Saleh | Toward a Taxonomy and Computational Models of Abnormalities in Images (http://arxiv.org/abs/1512.01325) |
+| Feb 11 | Babak Saleh | [Toward a Taxonomy and Computational Models of Abnormalities in Images](http://arxiv.org/abs/1512.01325) |
 | Feb 18 | Aditya Chukka | |
 | Feb 25 | Rajyavardhan Handa | |
 | Mar 3 | Qi Chang | |
