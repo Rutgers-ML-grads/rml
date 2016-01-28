@@ -28,7 +28,9 @@ layout: default
 | Mar 17 | Han Zhang | |
 | Mar 24 | Shailesh Goel | |
 | Mar 31 | Debanjan Ghosh | |
-| April 7 | Abhijit Shanbhag| |
+| April 7 | Zacharias Psarakis | |
+| April 14 | Colin Rennie | |
+| April 21 | Abhijit Shanbhag| |
 
 
 
@@ -131,6 +133,8 @@ layout: default
 | Shailesh Goel | |
 | Debanjan Ghosh | |
 | Mohamed Elhoseiny | |
+| Colin Rennie | |
+| Zacharias Psarakis | |
 
 
 ## Rules
