@@ -154,5 +154,5 @@ layout: default
     - To minimize disturbance, the conflicted spot will be moved to the rear of the list after confirmed with the original presenter, while all other schedules remain unchanged.  
 5. How do I do X?
     - [There is a how to page](http://ada.cs.rutgers.edu/howto.html)
-    - If something isn't on there, email brian[dot]c[dot]mcmahan[at]gmail[dot]com
+    - If something isn't on there, email vincentzhu122[at]gmail[dot]com or brian[dot]c[dot]mcmahan[at]gmail[dot]com
 
