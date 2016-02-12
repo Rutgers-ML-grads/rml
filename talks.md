@@ -22,15 +22,15 @@ layout: default
 | Feb 9(Special, 5pm) | Mohamed Elhoseiny | [Zero-Shot Event Detection by Multimodal Distributional Semantic Embedding of Videos](http://arxiv.org/abs/1512.00818) |
 | Feb 11 | Babak Saleh | [Toward a Taxonomy and Computational Models of Abnormalities in Images](http://arxiv.org/abs/1512.01325) |
 | Feb 18 | Aditya Chukka | [A new learning paradigm: Learning using privileged information](http://www.sciencedirect.com/science/article/pii/S0893608009001130) |
-| Feb 25 | Rajyavardhan Handa | |
-| Mar 3 | Qi Chang | |
-| Mar 10 | Bhuvan Chandra Inampudi | |
-| Mar 17 | Han Zhang | |
-| Mar 24 | Shailesh Goel | |
-| Mar 31 | Debanjan Ghosh | |
-| April 7 | Zacharias Psarakis | |
-| April 14 | Colin Rennie | |
-| April 21 | Abhijit Shanbhag| |
+| Feb 25 | Qi Chang | |
+| Mar 3 | Bhuvan Chandra Inampudi | |
+| Mar 10 | Han Zhang | |
+| Mar 17 | Shailesh Goel | |
+| Mar 24 | Debanjan Ghosh | |
+| Mar 31 | Zacharias Psarakis | |
+| April 7 | Colin Rennie | |
+| April 14 |  | |
+| April 21 |  | |
 
 
 
