@@ -21,15 +21,15 @@ layout: default
 |||[Learning Deconvolution Network for Semantic Segmentation](http://arxiv.org/abs/1505.04366)|
 | Feb 9(Special, 5pm) | Mohamed Elhoseiny | [Zero-Shot Event Detection by Multimodal Distributional Semantic Embedding of Videos](http://arxiv.org/abs/1512.00818) |
 | Feb 11 | Babak Saleh | [Toward a Taxonomy and Computational Models of Abnormalities in Images](http://arxiv.org/abs/1512.01325) |
-| Feb 18 | Aditya Chukka | [A new learning paradigm: Learning using privileged information](http://www.sciencedirect.com/science/article/pii/S0893608009001130) |
-| Feb 25 | Qi Chang | |
+| Feb 18 | Aditya Chukka | [Unifying distillation and privileged information](http://arxiv.org/abs/1511.03643) |
+| Feb 25 |  | |
 | Mar 3 | Bhuvan Chandra Inampudi | |
 | Mar 10 | Han Zhang | |
-| Mar 17 | Shailesh Goel | |
-| Mar 24 | Debanjan Ghosh | |
-| Mar 31 | Zacharias Psarakis | |
-| April 7 | Colin Rennie | |
-| April 14 |  | |
+| Mar 17 | Qi Chang | Ischemic Stroke Detection using Image Processing and ANN |
+| Mar 24 | Shailesh Goel | |
+| Mar 31 | Debanjan Ghosh | |
+| April 7 | Zacharias Psarakis | |
+| April 14 | Colin Rennie | |
 | April 21 |  | |
 
 
