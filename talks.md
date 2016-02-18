@@ -23,14 +23,14 @@ layout: default
 | Feb 11 | Babak Saleh | [Toward a Taxonomy and Computational Models of Abnormalities in Images](http://arxiv.org/abs/1512.01325) |
 | Feb 18 | Aditya Chukka | [Unifying distillation and privileged information](http://arxiv.org/abs/1511.03643) |
 | Feb 25 |  | |
-| Mar 3 | Bhuvan Chandra Inampudi | |
-| Mar 10 | Han Zhang | |
+| Mar 3 |  | |
+| Mar 10 |  | |
 | Mar 17 | Qi Chang | Ischemic Stroke Detection using Image Processing and ANN |
 | Mar 24 | Shailesh Goel | |
 | Mar 31 | Debanjan Ghosh | |
-| April 7 | Zacharias Psarakis | |
+| April 7 | Han Zhang | |
 | April 14 | Colin Rennie | |
-| April 21 |  | |
+| April 21 | Zacharias Psarakis | |
 
 
 
