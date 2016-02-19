@@ -22,7 +22,7 @@ layout: default
 | Feb 9(Special, 5pm) | Mohamed Elhoseiny | [Zero-Shot Event Detection by Multimodal Distributional Semantic Embedding of Videos](http://arxiv.org/abs/1512.00818) |
 | Feb 11 | Babak Saleh | [Toward a Taxonomy and Computational Models of Abnormalities in Images](http://arxiv.org/abs/1512.01325) |
 | Feb 18 | Aditya Chukka | [Unifying distillation and privileged information](http://arxiv.org/abs/1511.03643) |
-| Feb 25 |  | |
+| Feb 25 | Brian McMahan | [Deep Compositional Question Answering with Neural Module Networks](http://arxiv.org/abs/1511.02799) [Learning to Compose Neural Networks for Question Answerin](http://arxiv.org/abs/1601.01705)|
 | Mar 3 |  | |
 | Mar 10 |  | |
 | Mar 17 | Qi Chang | Ischemic Stroke Detection using Image Processing and ANN |
