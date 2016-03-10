@@ -25,12 +25,13 @@ layout: default
 | Feb 25 | Brian McMahan | [Deep Compositional Question Answering with Neural Module Networks](http://arxiv.org/abs/1511.02799) [Learning to Compose Neural Networks for Question Answerin](http://arxiv.org/abs/1601.01705)|
 | Mar 3 |  | |
 | Mar 10 |  | |
-| Mar 17 | Qi Chang | Ischemic Stroke Detection using Image Processing and ANN |
-| Mar 24 | Shailesh Goel | |
-| Mar 31 | Debanjan Ghosh | |
+| Mar 17 | Spring break | |
+| Mar 24 | Mohammad Elhoseiny | |
+| Mar 31 | Qi Chang | Ischemic Stroke Detection using Image Processing and ANN |
 | April 7 | Han Zhang | |
 | April 14 | Colin Rennie | |
 | April 21 | Zacharias Psarakis | |
+| April 28 | Debanjan Ghosh | |
 
 
 
