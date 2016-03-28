@@ -26,14 +26,12 @@ layout: default
 | Mar 3 |  | |
 | Mar 10 |  | |
 | Mar 17 | Spring break | |
-| Mar 24 | Mohammad Elhoseiny | |
-| Mar 31 | Qi Chang | Ischemic Stroke Detection using Image Processing and ANN |
-| April 7 | Han Zhang | |
-| April 14 | Colin Rennie | |
-| April 21 | Zacharias Psarakis | |
-| April 28 | Debanjan Ghosh | |
-
-
+| Mar 24 | Mohammad Elhoseiny | Teaching Machines to See with Language |
+| Mar 31 | | |
+| April 7 | Qi Chang | Stroke Segmentation Using Convolutional Neural Network |
+| April 14 | Han Zhang | |
+| April 21 | Colin Rennie | |
+| April 28 | Zacharias Psarakis | |
 
 ## Reading Stack
 >*put interesting papers here that people can choose from or know about*
